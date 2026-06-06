@@ -10,6 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/ablab/IsoQuant/master/docs/isoquant_logo.png" width="300" alt="IsoQuant">
 
+***This fork was merged into [IsoQuant repository](https://github.com/ablab/IsoQuant). The feature was a part of my master's thesis, which can be accessed at [Helda](http://hdl.handle.net/10138/632054).***
+
 [Full IsoQuant documentation can be found here](https://ablab.github.io/IsoQuant/).
 Information in this README is given only for convenience and is not a full user manual.
 
